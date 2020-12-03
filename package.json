@@ -1,0 +1,14 @@
+{
+  "name": "sprite_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Stepin Danil",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.26.3"
+  }
+}
